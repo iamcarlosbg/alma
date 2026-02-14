@@ -102,7 +102,7 @@ En `index.html`, busca la sección de contacto y modifica:
 <a href="tel:+34123456789">+34 123 456 789</a>
 
 <!-- Dirección -->
-<p>Calle del Artesano 45<br>28001 Madrid, España</p>
+<p>Calle de Luis I, 60, Nave 53<br>Villa de Vallecas, 28031 Madrid</p>
 ```
 
 ### Cambiar Mapa de Ubicación
